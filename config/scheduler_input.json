@@ -1,0 +1,12 @@
+{
+  "services": [
+    {
+      "cluster": "my-ecs-cluster-east",
+      "service": "my-service-east"
+    },
+    {
+      "cluster": "my-ecs-cluster-west",
+      "service": "my-service-west"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+project_name            = "ecs-restart"
+lambda_name             = "ecs-rolling-restart"
+environment             = "dev"
+region                  = "us-east-1"
+lambda_schedule_expression = "cron(1 0 * * ? *)"
