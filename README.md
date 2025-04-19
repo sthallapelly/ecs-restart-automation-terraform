@@ -39,7 +39,7 @@ This project automates **daily ECS service restarts** without downtime using **E
 }
 
 ```
-## 🚀 Deployment Options
+## 🚀 Deployment Steps
 
 ### 1. Prepare the repo:
 
